@@ -2,6 +2,8 @@ body
 {
     height: 43vh;
     width: 60vh;
+    margin:auto;
+    margin-top:200px;
 }
 
 header {
