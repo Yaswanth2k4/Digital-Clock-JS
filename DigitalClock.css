@@ -1,0 +1,63 @@
+body
+{
+    height: 43vh;
+    width: 60vh;
+}
+
+header {
+  background-color: darkblue;
+  border-radius: 10px 10px 0 0;
+}
+
+.container{
+    border: 1px solid black;
+    border-radius: 0 0 10px 10px;
+    background-color:beige;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+.showTime > div {
+    width: 60vh;
+    height: 15vh;
+    display: inline-block;
+}
+
+.currentTime {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:20px 90px ;
+}
+
+.currentDate {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 125px ;
+}
+
+.stop {
+    height:50px;
+    width:100px;
+    color:white;
+    background-color: darkblue;
+    font-size: 20px;
+    margin:30px 50px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.stopMouseOver {
+    height:50px;
+    width:100px;
+    color:white;
+    background-color: blue;
+    font-size: 20px;
+    margin:30px 50px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
